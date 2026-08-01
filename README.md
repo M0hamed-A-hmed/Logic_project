@@ -1,5 +1,5 @@
 # ⏰ Digital Clock Logic System Design
-
+ 
 🎓 **Institution:**Capital University, Faculty of Engineering  
 
 Welcome to the Digital Clock Logic System! This project is a purely hardware-based digital clock featuring real-time tracking and an integrated alarm system. It is built entirely using discrete logic ICs, counters, and timers, demonstrating fundamental digital electronics principles.
