@@ -1,4 +1,4 @@
-# ⏰ Digital Clock Logic System Design
+# ⏰ Digital Clock Logic System Design 
  
 🎓 **Institution:**Capital University, Faculty of Engineering  
 
